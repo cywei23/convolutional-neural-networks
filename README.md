@@ -1,6 +1,6 @@
 ## Multi-Layer Perceptron, MNIST
 ---
-In this notebook, we will train an MLP to classify images from the [MNIST database](http://yann.lecun.com/exdb/mnist/) hand-written digit database.
+Train an MLP to classify images from the [MNIST database](http://yann.lecun.com/exdb/mnist/) hand-written digit database.
 
 The process will be broken down into the following steps:
 >1. Load and visualize the data
@@ -12,7 +12,7 @@ Before we begin, we have to import the necessary libraries for working with data
 
 ## Convolutional Neural Networks
 ---
-In this notebook, we train a **CNN** to classify images from the CIFAR-10 database.
+Train a **CNN** to classify images from the CIFAR-10 database.
 
 The images in this database are small color images that fall into one of ten classes; some example images are pictured below.
 
